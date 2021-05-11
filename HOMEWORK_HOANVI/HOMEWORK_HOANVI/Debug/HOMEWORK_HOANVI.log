@@ -1,0 +1,3 @@
+﻿  main.c
+h:\imic\01-c_embeded_homework\homework_hoanvi\homework_hoanvi\main.c(13): warning C4047: '=': 'int' differs in levels of indirection from 'int **'
+  HOMEWORK_HOANVI.vcxproj -> H:\IMIC\01-C_EMBEDED_HOMEWORK\HOMEWORK_HOANVI\Debug\HOMEWORK_HOANVI.exe
