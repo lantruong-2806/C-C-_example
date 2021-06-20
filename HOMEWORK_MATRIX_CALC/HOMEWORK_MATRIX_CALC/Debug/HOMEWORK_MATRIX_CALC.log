@@ -1,2 +1,2 @@
 ﻿  main.c
-  HOMEWORK_MATRIX_CALC.vcxproj -> H:\IMIC\01-C_EMBEDED_HOMEWORK\HOMEWORK_MATRIX_CALC\Debug\HOMEWORK_MATRIX_CALC.exe
+h:\imic\01-c_embeded_homework\homework_matrix_calc\homework_matrix_calc\main.c(104): error C4700: uninitialized local variable 'testcong' used

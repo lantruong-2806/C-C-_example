@@ -1,0 +1,5 @@
+﻿  main.c
+h:\imic\01-c_embeded_homework\homework_file\homework_file\main.c(15): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+h:\imic\01-c_embeded_homework\homework_file\homework_file\main.c(15): warning C4024: 'fputc': different types for formal and actual parameter 1
+h:\imic\01-c_embeded_homework\homework_file\homework_file\main.c(15): warning C4133: 'function': incompatible types - from 'char [11]' to 'FILE *'
+h:\imic\01-c_embeded_homework\homework_file\homework_file\main.c(15): warning C4047: '=': 'FILE *' differs in levels of indirection from 'int'
